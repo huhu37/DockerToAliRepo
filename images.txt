@@ -1,1 +1,1 @@
-sophgo/tpuc_dev:latest
+sophgo/tpuc_dev
